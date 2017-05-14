@@ -1,0 +1,1 @@
+https://www.stubbornjava.com/posts/lightweight-embedded-java-rest-server-without-a-framework
